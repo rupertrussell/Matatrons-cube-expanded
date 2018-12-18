@@ -1,9 +1,9 @@
-// Metatron’s Cube Expanded 001
+// Metatron’s Cube Expanded 006
 // by Rupert Russell
 // December 18 2018
 // based on https://i.ytimg.com/vi/iQeXxu3-YNI/maxresdefault.jpg
-// Artwork on Redbubble at: 
-// MIT licence
+// Artwork on Redbubble at: https://www.redbubble.com/people/rupertrussell/works/35777407-metatron-s-cube-expanded-001
+// MIT licence 
 
 int scale = 100;
 float[] xInner = new float[6];
@@ -192,7 +192,7 @@ void draw() {
   //println(" x Outer   1 = " + xOuter[1] );
   //println(" x Nesting 0 =  " + xNesting[0] );
 
-// save("Matatrons-cube-expanded_001.png");
+ save("Matatrons-cube-expanded_006.png");
 
 // exit();
 }
